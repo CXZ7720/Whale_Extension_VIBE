@@ -1,0 +1,19 @@
+{
+
+    "manifest_version": 2,
+    "name": "VIBE",
+    "version": "1.0.0",
+
+
+    "description": "VIBE 뮤직플레이어",
+    "icons": {
+        "120": "images/icon_120x120.png"
+    },
+
+    "sidebar_action": {
+        "default_page": "index.html",
+        "default_title": "VIBE Music",
+        "use_navigation_bar": false,
+        "mobile_user_agent": true
+    }
+}
