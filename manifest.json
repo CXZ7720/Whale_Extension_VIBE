@@ -9,6 +9,7 @@
     "icons": {
         "120": "images/icon_120x120.png"
     },
+    "content_security_policy": "object-src 'self' https://vibe.naver.com/; script-src 'self' https://vibe.naver.com/",
 
     "sidebar_action": {
         "default_page": "index.html",

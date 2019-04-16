@@ -1,0 +1,1 @@
+$("#content").html('<object data="https://vibe.naver.com" />');
